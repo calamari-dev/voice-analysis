@@ -1,0 +1,17 @@
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.gnuplot
+**/*.idx
+**/*.ilg
+**/*.ind
+**/*.listing
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.synctex.gz
+**/*.table
+**/*.toc
+**/*.vrb

@@ -1,0 +1,8 @@
+source = ["index.tex"]
+sequence = ["latex", "upbibtex"]
+
+[programs.upbibtex]
+command = "upbibtex"
+target = "%B.bib"
+args = ["%B"]
+postprocess = "latex"
